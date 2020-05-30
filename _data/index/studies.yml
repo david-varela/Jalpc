@@ -1,0 +1,73 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Ph.D in Reinforcement Learning
+#     i18n: company_a
+  desc:
+    detail: Navigation in crowded environments
+#     i18n: company_a_desc
+  date:
+    detail: 2023
+#     i18n: company_a_date
+  job:
+    detail: University of Alicante
+#     i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Bacherlor in Computer Science
+#     i18n: company_b
+  desc:
+    # detail: Creation of tools for data analysis and visualization (Python, SQL, Web)
+#     i18n: company_b_desc
+  date:
+    detail: 2010
+#     i18n: company_b_date
+  job:
+    detail: University of Alicante
+#     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Master in Computer Science
+#     i18n: company_b
+  desc:
+    # detail: Member of the Yelp for business owners Android team
+#     i18n: company_b_desc
+  date:
+    detail: 2010
+#     i18n: company_b_date
+  job:
+    detail: University of Alicante
+#     i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: MBA
+#     i18n: company_b
+  desc:
+    # detail: Develop of the [Xing app](https://play.google.com/store/apps/details?id=com.xing.android) as a core team member, creation of the SDK for Android, support and alignment of different product teams
+#     i18n: company_b_desc
+  date:
+    detail: 2017
+#     i18n: company_b_date
+  job:
+    detail: European University Miguel de Cervantes
+#     i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Deep Reinforcement Learning Nanodegree
+#     i18n: company_b
+  desc:
+    detail: <a href="https://confirm.udacity.com/GG2CTC2M">Certificate</a>
+#     i18n: company_b_desc
+  date:
+    detail: 2019
+#     i18n: company_b_date
+  job:
+    detail: Udacity
+#     i18n: company_b_job
+  icon: fa-plus-square
+  
