@@ -33,7 +33,7 @@
     detail: Yelp
 #     i18n: company_b
   desc:
-    detail: Member of the Yelp for business owners Android team
+    detail: Member of the <a href="https://play.google.com/store/apps/details?id=com.yelp.android.biz" target="_blank">Yelp for business owners</a> Android team
 #     i18n: company_b_desc
   date:
     detail: Sep. 2015 - Mar. 2016
@@ -47,7 +47,7 @@
     detail: Xing
 #     i18n: company_b
   desc:
-    detail: Develop of the [Xing app](https://play.google.com/store/apps/details?id=com.xing.android) as a core team member, creation of the SDK for Android, support and alignment of different product teams
+    detail: Develop of the <a href="https://play.google.com/store/apps/details?id=com.xing.android" target="_blank">Xing app</a> as a core team member, creation of the SDK for Android, support and alignment of different product teams
 #     i18n: company_b_desc
   date:
     detail: Sep. 2013 - Aug. 2015
@@ -61,7 +61,7 @@
     detail: Mobile One2One
 #     i18n: company_b
   desc:
-    detail: (Architectural) design and code for the [Vueling app](https://play.google.com/store/apps/details?id=com.mo2o.vueling). As the main developer increased its relevance as sales channel
+    detail: (Architectural) design and code for the <a href="https://play.google.com/store/apps/details?id=com.mo2o.vueling" target="_blank">Vueling app</a>. As the main developer increased its relevance as sales channel
 #     i18n: company_b_desc
   date:
     detail: Sep. 2011 - May. 2013
@@ -75,7 +75,7 @@
     detail: Planet Media
 #     i18n: company_b
   desc:
-    detail: (Architectural) design and code for the [Diez Minutos app](https://play.google.com/store/apps/details?id=es.planetmedia.diezminutos) as the unique developer. Release of the first version in just 3 weeks
+    detail: (Architectural) design and code for the <a href="https://play.google.com/store/apps/details?id=es.planetmedia.diezminutos" target="_blank">Diez Minutos app</a> as the unique developer. Release of the first version in just 3 weeks
 #     i18n: company_b_desc
   date:
     detail: May 2011 - Sep. 2011
