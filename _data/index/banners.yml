@@ -5,14 +5,8 @@
 - src: landing/banner1.png
   title: first banner image
 
-- src: landing/banner2.png
+- src: landing/banner3.png
   title: second banner image
 
-- src: landing/banner3.jpg
-  title: second banner image
-
-- src: landing/banner4.png
-  title: second banner image
-
-- src: landing/banner5.jpg
+- src: landing/banner5.png
   title: second banner image
